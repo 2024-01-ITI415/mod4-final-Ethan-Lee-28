@@ -29,4 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Labs/07-Prototype3/07-Prototype3.unity
     guid: a0d2a73e11b0743f4abfb05dbe92329b
+  - enabled: 1
+    path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/SampleScenes/Prototype
+      4.unity
+    guid: 2194fe559202da244a6cc0ad8cbc636d
   m_configObjects: {}
